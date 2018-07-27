@@ -20,12 +20,15 @@
 
 # Create Data Prep Task 	5-10 minutes
 
-- Execute ODI Scenario Task – 5 minutes
-- Drill into ODI execution details – DW loaded (uses GG replicated data from the “ODS” and prepared data to load a DW)
+# Execute ODI Scenario Task – 5 minutes
+
+# Drill into ODI execution details
+– DW loaded (uses GG replicated data from the “ODS” and prepared data to load a DW)
  
 # OSA Demo		25 minutes
 
 - Build OSA Pipeline for Retail (10-15)
-- Show and walk through OGG demo and a dashboard.  (can discuss how DIPC 18.3.3 has a replicate data task that can populate the Kafka topics for OSA to consume from).
+
+# Show and walk through OGG demo and a dashboard.  (can discuss how DIPC 18.3.3 has a replicate data task that can populate the Kafka topics for OSA to consume from).
  
 # Q&A – 10 minutes.

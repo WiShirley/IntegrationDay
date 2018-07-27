@@ -1,7 +1,6 @@
 # Sync Data
 
 # Lab 300 - Data Synch Elevated Task
-![](images/300/image300_0.png)
 
 ## Before You Begin
 
